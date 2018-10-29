@@ -13,4 +13,5 @@ module.exports = {
     'tsx',
     'json'
   ],
+  setupTestFrameworkScriptFile: '<rootDir>/jest.setup.js',
 }
